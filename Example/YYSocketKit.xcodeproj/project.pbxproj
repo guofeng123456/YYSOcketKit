@@ -301,7 +301,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-YYSocketKit_Example/Pods-YYSocketKit_Example-frameworks.sh",
-				"${PODS_ROOT}/../../YYSocketKit/Classes/YYSocketIOKit.framework",
+				"${PODS_ROOT}/../../YYSocketKit/Classes/Framework/YYSocketIOKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
