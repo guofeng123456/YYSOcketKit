@@ -37,7 +37,7 @@ TODO: Add long description of the pod here.
  
  
   s.subspec 'Framework' do |ss|
-  ss.source_files = 'YYSocketKit/Classes/Framework/YYSocketIOKit.framework/Headers/YYSocketIOKit-Swift.h'
+  ss.source_files = 'YYSocketKit/Classes/Framework/**/Headers/*.h'
   ss.vendored_frameworks = 'YYSocketKit/Classes/Framework/*.framework'
   end
   
