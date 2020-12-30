@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YYSocketKit_Example' do
+  pod 'YYSocketKit', :path => '../'
+
+  target 'YYSocketKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module YYSocketKit {
+  umbrella header "YYSocketKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

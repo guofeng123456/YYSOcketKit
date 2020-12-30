@@ -1,0 +1,18 @@
+PODS:
+  - YYSocketKit (0.3.0):
+    - YYSocketKit/Framework (= 0.3.0)
+  - YYSocketKit/Framework (0.3.0)
+
+DEPENDENCIES:
+  - YYSocketKit (from `../`)
+
+EXTERNAL SOURCES:
+  YYSocketKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYSocketKit: df3edc41177b82d530f574e2dcce0b989d2993cd
+
+PODFILE CHECKSUM: e1750eae2cc48eb0536f4e77267301da495c8a64
+
+COCOAPODS: 1.10.0

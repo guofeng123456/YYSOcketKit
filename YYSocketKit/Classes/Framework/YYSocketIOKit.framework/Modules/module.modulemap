@@ -1,0 +1,11 @@
+framework module YYSocketIOKit {
+  umbrella header "YYSocketIOKit.h"
+
+  export *
+  module * { export * }
+}
+
+module YYSocketIOKit.Swift {
+    header "YYSocketIOKit-Swift.h"
+    requires objc
+}
