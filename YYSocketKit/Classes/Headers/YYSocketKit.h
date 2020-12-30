@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "YYSocketIOKit-Swift.h"
 NS_ASSUME_NONNULL_BEGIN
 
 @interface YYSocketKit : NSObject

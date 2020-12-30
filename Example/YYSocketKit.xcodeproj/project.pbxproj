@@ -301,16 +301,10 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-YYSocketKit_Example/Pods-YYSocketKit_Example-frameworks.sh",
-				"${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RbtBezierLib.framework",
-				"${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RobotPen.framework",
-				"${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RobotSimpleWhiteboard.framework",
-				"${PODS_ROOT}/../../YYSocketKit/Classes/Framework/YYSocketIOKit.framework",
+				"${PODS_ROOT}/../../YYSocketKit/Classes/YYSocketIOKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RbtBezierLib.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RobotPen.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RobotSimpleWhiteboard.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YYSocketIOKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -175,16 +175,10 @@ code_sign_if_enabled() {
 }
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RbtBezierLib.framework"
-  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RobotPen.framework"
-  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RobotSimpleWhiteboard.framework"
-  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/Framework/YYSocketIOKit.framework"
+  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/YYSocketIOKit.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RbtBezierLib.framework"
-  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RobotPen.framework"
-  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/Framework/RobotSimpleWhiteboard.framework"
-  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/Framework/YYSocketIOKit.framework"
+  install_framework "${PODS_ROOT}/../../YYSocketKit/Classes/YYSocketIOKit.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

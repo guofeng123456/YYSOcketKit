@@ -28,54 +28,50 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		11C614620ED33A7B1972BB1B798779B1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = FED2D4EF0C979E80CC8862B99D1151C9;
-			remoteInfo = "Pods-YYSocketKit_Example";
-		};
-		326A534A7AF083BE50E46850922EADBE /* PBXContainerItemProxy */ = {
+		2406356914B07009B1E00CA0A516C3CC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2779A05BF8312F35242C4344E91FA4A2;
 			remoteInfo = YYSocketKit;
 		};
+		DB6E2900B4059807A7D48593DD86A1A5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FED2D4EF0C979E80CC8862B99D1151C9;
+			remoteInfo = "Pods-YYSocketKit_Example";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		035A676D2CB932B52C330644BE7FE7E6 /* Pods-YYSocketKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YYSocketKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		06F4B61B1EC8DFB006CCD217EC9F1A7A /* Pods-YYSocketKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YYSocketKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		0AA6DDBDD8AF5912CCE2903194F5CD8C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		0B3D0AECF4447B2FAE2E946FA9217F25 /* YYSocketKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YYSocketKit.debug.xcconfig; sourceTree = "<group>"; };
 		0C03BAA18B3FB2CC25F6F95ED13922D6 /* Pods-YYSocketKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YYSocketKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		18373FE6FFBCB776D2A3792B8119F102 /* Pods-YYSocketKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YYSocketKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		1B9FA07F10FAD67CC85587C87F482585 /* Pods-YYSocketKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YYSocketKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		1D436B8328E87D28DEFCC10DD732CEBF /* YYSocketIOKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YYSocketIOKit.h; path = YYSocketKit/Classes/Framework/YYSocketIOKit.framework/Headers/YYSocketIOKit.h; sourceTree = "<group>"; };
-		1EEA7D3DDC88C6EBA00B98139FE6ABE9 /* RbtBezierLib.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RbtBezierLib.framework; path = YYSocketKit/Classes/Framework/RbtBezierLib.framework; sourceTree = "<group>"; };
 		20171ACDCFE5D7D597CDB66F703649B5 /* Pods-YYSocketKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YYSocketKit_Tests-umbrella.h"; sourceTree = "<group>"; };
-		2EA32FD6CA5511592A1BE0351D036FB8 /* RobotPen.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RobotPen.framework; path = YYSocketKit/Classes/Framework/RobotPen.framework; sourceTree = "<group>"; };
 		356A6C5044107A0960F11BED3F159E6E /* Pods-YYSocketKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YYSocketKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		386DB6A4E92797315AAD1515A18A2537 /* YYSocketKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YYSocketKit.release.xcconfig; sourceTree = "<group>"; };
 		39AFF02A92D6B468684491B0C542BFF4 /* Pods-YYSocketKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YYSocketKit_Tests-dummy.m"; sourceTree = "<group>"; };
-		41C48C0FF613840CEB90A44AAB92DF08 /* RobotSimpleWhiteboard.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RobotSimpleWhiteboard.framework; path = YYSocketKit/Classes/Framework/RobotSimpleWhiteboard.framework; sourceTree = "<group>"; };
-		441DFF0BA07FF7B25E41D17352503DE2 /* YYSocketKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YYSocketKit.debug.xcconfig; sourceTree = "<group>"; };
+		3D6FD8612033ED65ACB3ADD7751EE7CD /* YYSocketIOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = YYSocketIOKit.framework; path = YYSocketKit/Classes/YYSocketIOKit.framework; sourceTree = "<group>"; };
 		4F1598D33E6A89B7E6F4655D99F1BA96 /* Pods-YYSocketKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YYSocketKit_Tests-Info.plist"; sourceTree = "<group>"; };
 		50EFB102243EE3E13AA5EDD06CE15B04 /* Pods_YYSocketKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YYSocketKit_Example.framework; path = "Pods-YYSocketKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5CC1B7B6542A8E963FB25E94CD71551B /* YYSocketKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YYSocketKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6418AEC907D5748C3B05A84CAB9435D4 /* Pods_YYSocketKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YYSocketKit_Tests.framework; path = "Pods-YYSocketKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E0AA13F478EA2CBEFDF0EB42E884E88 /* Pods-YYSocketKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YYSocketKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6EF164FDCB7EE53265A22FFCA8520499 /* Pods-YYSocketKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YYSocketKit_Example-dummy.m"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		778FA3A0E88D09C4CCE91CBD2AB02C63 /* YYSocketIOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = YYSocketIOKit.framework; path = YYSocketKit/Classes/Framework/YYSocketIOKit.framework; sourceTree = "<group>"; };
 		7A14A3FDBB940B694F621FB59156EC83 /* Pods-YYSocketKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-YYSocketKit_Example-frameworks.sh"; sourceTree = "<group>"; };
-		9A32D5038CD792309171BC202F497C44 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		812B3F3C21C02A8E25443ACF791296D0 /* YYSocketKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YYSocketKit.h; path = YYSocketKit/Classes/Headers/YYSocketKit.h; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9F952CF1CC50E69993449DD909E912A0 /* YYSocketIOKit-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "YYSocketIOKit-Swift.h"; path = "YYSocketKit/Classes/Framework/YYSocketIOKit.framework/Headers/YYSocketIOKit-Swift.h"; sourceTree = "<group>"; };
 		AC669DBC7C9D5546210637FCA5B10388 /* Pods-YYSocketKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YYSocketKit_Tests.modulemap"; sourceTree = "<group>"; };
-		C19BC5ED2588F41295C3C53A853F90D2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		D3F31AAC9EDF0F35BADB1A5AC0B5904D /* Pods-YYSocketKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YYSocketKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		DB36F973A997AC0ECFFD55D2DD1A3B4C /* YYSocketKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YYSocketKit.release.xcconfig; sourceTree = "<group>"; };
 		DCA7BA7EC86B7BD435CB50FE998374C2 /* Pods-YYSocketKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YYSocketKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		E58BF55310EFF5E4E757BB12B82C32EB /* Pods-YYSocketKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YYSocketKit_Example-Info.plist"; sourceTree = "<group>"; };
+		E662E722978EBE86E8DDB7B198AAEA0E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		EFD4375A96C06231A097EB801B7BF69B /* YYSocketKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YYSocketKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F9948724939CE702E881B24A45C70CC6 /* Pods-YYSocketKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YYSocketKit_Example.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -99,34 +95,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0B7C333CAA0DCAD622BEAAD0A965CA5D /* Development Pods */ = {
+		164193BDF8A8563F54AAC04B73BA24CD /* YYSocketKit */ = {
 			isa = PBXGroup;
 			children = (
-				0F25B621C4F0E0849F94D3FD253067B0 /* YYSocketKit */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		0F25B621C4F0E0849F94D3FD253067B0 /* YYSocketKit */ = {
-			isa = PBXGroup;
-			children = (
-				A51CE812898A8C5C323D32FDE86B5731 /* Framework */,
-				AFD356CC40A219E86B562D8957737455 /* Pod */,
-				A473B3F2975093D92BD35889DA898888 /* Support Files */,
+				FD83DD543304104564FD091D75A94814 /* Frameworks */,
+				4965C7AD268B4844DEF3448E4438E9FB /* Headers */,
+				D586DC29F24FDD05E72A2615DC03DB9F /* Pod */,
+				6178B848250EC75F50918F3C31D7AA1D /* Support Files */,
 			);
 			name = YYSocketKit;
 			path = ../..;
-			sourceTree = "<group>";
-		};
-		18125B1A1684C0D7223DE00744DEAA62 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				1EEA7D3DDC88C6EBA00B98139FE6ABE9 /* RbtBezierLib.framework */,
-				2EA32FD6CA5511592A1BE0351D036FB8 /* RobotPen.framework */,
-				41C48C0FF613840CEB90A44AAB92DF08 /* RobotSimpleWhiteboard.framework */,
-				778FA3A0E88D09C4CCE91CBD2AB02C63 /* YYSocketIOKit.framework */,
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		2FB8825C17937EADED6B9928C8FDC572 /* Products */ = {
@@ -145,6 +123,14 @@
 				4C12AD27983E469B7DF4F9F333E7AEFD /* Pods-YYSocketKit_Tests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		4965C7AD268B4844DEF3448E4438E9FB /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				812B3F3C21C02A8E25443ACF791296D0 /* YYSocketKit.h */,
+			);
+			name = Headers;
 			sourceTree = "<group>";
 		};
 		4C12AD27983E469B7DF4F9F333E7AEFD /* Pods-YYSocketKit_Tests */ = {
@@ -171,41 +157,21 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		A473B3F2975093D92BD35889DA898888 /* Support Files */ = {
+		6178B848250EC75F50918F3C31D7AA1D /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				441DFF0BA07FF7B25E41D17352503DE2 /* YYSocketKit.debug.xcconfig */,
-				386DB6A4E92797315AAD1515A18A2537 /* YYSocketKit.release.xcconfig */,
+				0B3D0AECF4447B2FAE2E946FA9217F25 /* YYSocketKit.debug.xcconfig */,
+				DB36F973A997AC0ECFFD55D2DD1A3B4C /* YYSocketKit.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/YYSocketKit";
-			sourceTree = "<group>";
-		};
-		A51CE812898A8C5C323D32FDE86B5731 /* Framework */ = {
-			isa = PBXGroup;
-			children = (
-				1D436B8328E87D28DEFCC10DD732CEBF /* YYSocketIOKit.h */,
-				9F952CF1CC50E69993449DD909E912A0 /* YYSocketIOKit-Swift.h */,
-				18125B1A1684C0D7223DE00744DEAA62 /* Frameworks */,
-			);
-			name = Framework;
-			sourceTree = "<group>";
-		};
-		AFD356CC40A219E86B562D8957737455 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				C19BC5ED2588F41295C3C53A853F90D2 /* LICENSE */,
-				9A32D5038CD792309171BC202F497C44 /* README.md */,
-				5CC1B7B6542A8E963FB25E94CD71551B /* YYSocketKit.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				0B7C333CAA0DCAD622BEAAD0A965CA5D /* Development Pods */,
+				F902F4DD08E5CF5A48F7720648C51CF3 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				2FB8825C17937EADED6B9928C8FDC572 /* Products */,
 				47C3ABB2444764FCA4AA0B20CBBC877F /* Targets Support Files */,
@@ -218,6 +184,16 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D586DC29F24FDD05E72A2615DC03DB9F /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				E662E722978EBE86E8DDB7B198AAEA0E /* LICENSE */,
+				0AA6DDBDD8AF5912CCE2903194F5CD8C /* README.md */,
+				EFD4375A96C06231A097EB801B7BF69B /* YYSocketKit.podspec */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		DEFB3447346B44177B34730D98A6A847 /* Pods-YYSocketKit_Example */ = {
@@ -235,6 +211,22 @@
 			);
 			name = "Pods-YYSocketKit_Example";
 			path = "Target Support Files/Pods-YYSocketKit_Example";
+			sourceTree = "<group>";
+		};
+		F902F4DD08E5CF5A48F7720648C51CF3 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				164193BDF8A8563F54AAC04B73BA24CD /* YYSocketKit */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		FD83DD543304104564FD091D75A94814 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3D6FD8612033ED65ACB3ADD7751EE7CD /* YYSocketIOKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -271,7 +263,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				66A84569CAE528DD0162A6C557FCE9C1 /* PBXTargetDependency */,
+				7719637DD0811E361BAE7296DD656346 /* PBXTargetDependency */,
 			);
 			name = "Pods-YYSocketKit_Tests";
 			productName = "Pods-YYSocketKit_Tests";
@@ -290,7 +282,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				D9910DA3C1FE9E0BEE6FF70695F16A7A /* PBXTargetDependency */,
+				73EBD646D2F304DABB09CECB08A4E6DB /* PBXTargetDependency */,
 			);
 			name = "Pods-YYSocketKit_Example";
 			productName = "Pods-YYSocketKit_Example";
@@ -363,24 +355,24 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		66A84569CAE528DD0162A6C557FCE9C1 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-YYSocketKit_Example";
-			target = FED2D4EF0C979E80CC8862B99D1151C9 /* Pods-YYSocketKit_Example */;
-			targetProxy = 11C614620ED33A7B1972BB1B798779B1 /* PBXContainerItemProxy */;
-		};
-		D9910DA3C1FE9E0BEE6FF70695F16A7A /* PBXTargetDependency */ = {
+		73EBD646D2F304DABB09CECB08A4E6DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = YYSocketKit;
 			target = 2779A05BF8312F35242C4344E91FA4A2 /* YYSocketKit */;
-			targetProxy = 326A534A7AF083BE50E46850922EADBE /* PBXContainerItemProxy */;
+			targetProxy = 2406356914B07009B1E00CA0A516C3CC /* PBXContainerItemProxy */;
+		};
+		7719637DD0811E361BAE7296DD656346 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-YYSocketKit_Example";
+			target = FED2D4EF0C979E80CC8862B99D1151C9 /* Pods-YYSocketKit_Example */;
+			targetProxy = DB6E2900B4059807A7D48593DD86A1A5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		1B91C4A8CC30AA7287D5DA988106C78C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 386DB6A4E92797315AAD1515A18A2537 /* YYSocketKit.release.xcconfig */;
+			baseConfigurationReference = DB36F973A997AC0ECFFD55D2DD1A3B4C /* YYSocketKit.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -590,7 +582,7 @@
 		};
 		BFA7E82217222D6967A18B74678A3C16 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 441DFF0BA07FF7B25E41D17352503DE2 /* YYSocketKit.debug.xcconfig */;
+			baseConfigurationReference = 0B3D0AECF4447B2FAE2E946FA9217F25 /* YYSocketKit.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
