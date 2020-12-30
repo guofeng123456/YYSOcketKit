@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YYSocketKit'
-  s.version          = '1.0.4'
+  s.version          = '1.0.6'
   s.summary          = 'A short description of YYSocketKit.'
 
 # This description is used to generate tags and improve search results.
@@ -37,6 +37,7 @@ TODO: Add long description of the pod here.
  
  
   s.subspec 'Framework' do |ss|
+  ss.source_files = 'YYSocketKit/Classes/Framework/YYSocketIOKit.framework/Headers/YYSocketIOKit-Swift.h'
   ss.vendored_frameworks = 'YYSocketKit/Classes/Framework/*.framework'
   end
   
