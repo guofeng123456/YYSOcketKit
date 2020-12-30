@@ -1,9 +1,7 @@
 PODS:
-  - YYSocketKit (1.0.6):
-    - YYSocketKit/Framework (= 1.0.6)
-    - YYSocketKit/Headers (= 1.0.6)
-  - YYSocketKit/Framework (1.0.6)
-  - YYSocketKit/Headers (1.0.6)
+  - YYSocketKit (1.0.7):
+    - YYSocketKit/Framework (= 1.0.7)
+  - YYSocketKit/Framework (1.0.7)
 
 DEPENDENCIES:
   - YYSocketKit (from `../`)
@@ -13,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YYSocketKit: d7d72931897e1eae92c1068c4ef7125520445eb3
+  YYSocketKit: c97328d258e00ee02cd3da8471b2fcbb4d353afa
 
 PODFILE CHECKSUM: e1750eae2cc48eb0536f4e77267301da495c8a64
 
